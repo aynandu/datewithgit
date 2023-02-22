@@ -13,3 +13,5 @@ hi nandu
 
 conflict 1
 
+git push first update
+
