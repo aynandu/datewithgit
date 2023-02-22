@@ -15,3 +15,5 @@ conflict 1
 
 git push first update
 
+git clone push
+
